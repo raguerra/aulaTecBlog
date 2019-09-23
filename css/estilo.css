@@ -55,6 +55,13 @@ body{
     border-bottom: 1px dotted #CCC;
 }
 
+.mapa{
+    align-content: center;
+    border: 5px solid #ffffff;
+    border-radius: 5px;
+    background: #f7b600;
+}
+
 #rodape{
     background: #cccccc;
     clear: both;
